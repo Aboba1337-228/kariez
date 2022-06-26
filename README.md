@@ -3,6 +3,7 @@
 Front-end/Vue: 
   - Установка - npm install
   - Запуск - npm run dev
+-------------------------------------------------
 Back-end/Python:
   - Установка библиотек - pip install request.txt
   - Запустить файл - app.py
